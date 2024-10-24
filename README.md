@@ -1,3 +1,3 @@
 <p align="center">
-   <img src= "https://komarev.com/ghpvc/?username=your-github-username&label=🐟&color=92a3de">
+   <img src= "https://komarev.com/ghpvc/?username=count&label=🐟&color=92adde">
 </p>
