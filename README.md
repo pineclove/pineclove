@@ -6,4 +6,4 @@
 <p align=center> <body><img src="https://files.catbox.moe/7os6jf.png" alt="Trulli"</body>
 
 
-<p align=center>　　 <body><img src="https://64.media.tumblr.com/5ac86153230e14077491d8ad3d85903d/75653e2d70049c8f-7d/s100x200/f77519d978453c95c4b636271f6c272ea1407d3d.pnj" alt="Trulli"</body> 　　<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&size=10&duration=3000&pause=750&color=8B9A9C&background=FFFDF600&width=435&lines=Hello...+I+don't+say+Hi+back...+Hiioo.!;sign+the+atabook..+Ok%3F+%3A)" alt="Typing SVG" /></a>
+<p align=center>　　 <body><img src="https://64.media.tumblr.com/9d6d996eef0211fe21ee50693076021e/75653e2d70049c8f-a5/s100x200/13c67fcb254d43779a7780bf3601a5f9a0279928.pnj" alt="Trulli"</body> 　　<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&size=10&duration=3000&pause=750&color=8B9A9C&background=FFFDF600&width=435&lines=I've+been+thinking+lately;not+sure+what+of;but+sign+the+atabook!;it's+not+fun+to+be+sentient;it's+not+fun+to+be+sentient;it's+not+fun+to+be+sentient" alt="Typing SVG" /></a>
